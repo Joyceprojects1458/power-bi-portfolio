@@ -36,3 +36,5 @@ Power BI Desktop, Power Query data cleaning (duplicates, negative values, incons
 
 - Bayline_Retail_Dashboard_FINISHED.pbix — the Power BI file
 - bayline-one-page-findings-summary.docx — one-page summary of the findings
+- bayline-part-c-findings-draft-nov22.md — the full findings write-up
+- Bayline_Retail_Dashboard_Project_Workbook.docx — the project workbook (assignment brief and answer key checks)
