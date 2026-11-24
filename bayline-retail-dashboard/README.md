@@ -19,6 +19,20 @@ No real company information is included. This dataset is fictional, made up for 
 3. **Labor** — sales per labor hour and overtime % by store and region
 4. **Returns and Shrink** — return rates by department and shrink as % of COGS
 
+## Screenshots
+
+**Sales**
+![Sales page](01-sales.png)
+
+**Inventory**
+![Inventory page](02-inventory.png)
+
+**Labor**
+![Labor page](03-labor.png)
+
+**Returns and Shrink**
+![Returns and Shrink page](04-returns-and-shrink.png)
+
 ## What I found
 
 - **Headline growth flatters the chain:** Net sales are up 6.2% year over year for 2026, but comparable stores grew only 1.5% — most of the growth came from new stores.
@@ -35,5 +49,6 @@ Power BI Desktop, Power Query data cleaning (duplicates, negative values, incons
 ## Files in this project
 
 - Bayline_Retail_Dashboard_FINISHED.pbix — the Power BI file
+- Screenshots of all 4 pages (in this same folder)
 - bayline-one-page-findings-summary.docx — one-page summary of the findings
 - bayline-part-c-findings-draft-nov22.md — the full findings write-up
