@@ -20,6 +20,23 @@ No real employee information is included. This dataset is fictional, made up for
 4. **Engagement** — eNPS trends and survey scores
 5. **Training** — completion rates and overdue training
 
+## Screenshots
+
+**HR Numbers**
+![HR Numbers page](01-hr-numbers.png)
+
+**Turnover**
+![Turnover page](02-turnover.png)
+
+**Hiring**
+![Hiring page](03-Hiring.png)
+
+**Engagement**
+![Engagement page](04-Engagement.png)
+
+**Training**
+![Training page](05-Training.png)
+
 ## What I found
 
 - **Turnover is very high:** Out of 800 employees, there were 573 terminations — a 72% turnover rate. Most terminations were voluntary (78%), with only 22% involuntary. Terminations peaked in 2024 with 186. Branch Operations had the most terminations, about 210.
