@@ -35,7 +35,7 @@ The workbook has about 300 live formulas across 3 sheets. It is a driver-based m
 - **Attendance is the whole ballgame:** at 6,000 visitors a day the market loses $183,680 (−2.7% margin); at 10,000 a day it nets $3,571,307 (33.8%); at 12,500 a day, $5,918,173 (45.6%). Fixed costs barely move — the scenarios live or die on volume.
 - **The beverage department is the profit engine:** $1.8M to $4.0M of net profit across the scenarios, ahead of gate admission — the souvenir boot mugs alone outsell the gate in the moderate and optimistic cases.
 - **The conservative case is fixable with small prices, not big ones:** four modest levers — admission +$2, mugs +$2, refills +$1, skating +$2 — add $579,608 and flip the conservative case to a $395,928 profit (5.4% margin), with no change to attendance assumptions.
-- **The model keeps its own audit trail:** every assumption change is dated and explained in the notes (including two cost lines caught and removed as double-counts), so anyone reviewing it can see how the numbers evolved.
+- **Built to be re-run:** every figure traces back to a driver on the Assumptions sheet, so the whole model can be re-run for a different city, season, or attendance level just by changing the inputs.
 
 ## Skills used
 
